@@ -1,0 +1,6 @@
+venv/
+extras/
+eye_suspicion/
+savedimages/
+__pycache__
+.DS_Store
